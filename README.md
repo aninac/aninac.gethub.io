@@ -1,2 +1,2 @@
-# aninac.gethub.io
+# aninac.github.io
 Data Science Portfolio
