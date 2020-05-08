@@ -3,7 +3,7 @@ This portfolio is a collection of notebooks and presentations that I have comple
 
 ## Capstone Projects
 <b>Predicting Home Foreclosures</b>
-xyz
+<p>xyz</p>
 
 <b>Yelp Restaurant Recommendations</b>
 abc
