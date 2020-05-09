@@ -3,9 +3,7 @@ This portfolio is a collection of notebooks and presentations that I have comple
 
 ## Capstone Projects
 <b>Predicting Home Foreclosures</b>
-<p>Predicted which mortgages would likely foreclose using a large Sallie Mae dataset. The random forest classifier in Python 3 scikit learn  was used to assign each mortgage into one of two classes, non-foreclosure and foreclosure. Undersampling was applied since a class imblance of non defaults existed in the dataset.</p>
-<a href="url">Jupyter Notebook</a>
-<a href="url">Presentation</a>
+<p>Predicted which mortgages would likely foreclose using a large Sallie Mae dataset. The random forest classifier in Python 3 scikit learn  was used to assign each mortgage into one of two classes, non-foreclosure and foreclosure. Undersampling was applied since a class imblance of non defaults existed in the dataset. <a href="url">Jupyter Notebook</a><a href="url">Presentation</a></p>
 
 <b>Yelp Restaurant Recommendations</b>
 <p>Created recommendation engine using the Surprise library on Yelp dataset. PostgreSQL used along with Python 3 to prepocess original data. A matrix factorization singular value decomposition algorithm was used to make restaurant recommendations on test set.</p>
